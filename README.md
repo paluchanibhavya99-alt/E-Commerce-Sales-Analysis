@@ -95,6 +95,28 @@ Download the PBIX file from this repository and open it using Power BI Desktop.
 - How do customers rate their shopping experiences?
 - What insights can help improve business performance?
 
+## Python Data Analysis
+
+Python was used to perform additional analysis on the processed e-commerce dataset and create visualizations using Pandas and Matplotlib.
+
+### Visualizations Created
+
+1. **Monthly Sales Trend** – Analyzes how product sales change over time.
+2. **Top 10 Product Categories** – Identifies the highest-selling product categories.
+3. **Payment Method Distribution** – Shows the distribution of payment value across payment methods.
+4. **Customer Review Ratings** – Analyzes customer ratings from 1 to 5 stars.
+5. **Order Delivery Performance** – Compares average actual delivery time with estimated delivery time.
+
+### Technologies Used
+
+- Python
+- Pandas
+- Matplotlib
+
+### Output
+
+All generated chart images are available in the `reports/` folder. The Python scripts are available in the `python_analysis/` folder.
+
 ## 🏁 Conclusion
 
 This project demonstrates the use of data analytics tools to transform raw e-commerce data into meaningful information. It combines Python, SQL, Excel, and Power BI to explore business performance and support data-driven decision-making.
